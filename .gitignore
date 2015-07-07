@@ -1,0 +1,6 @@
+ignore/*
+*.ignore
+.DS_store
+*.pyc
+*.npy
+.ipynb_checkpoints
